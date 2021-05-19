@@ -1,6 +1,6 @@
 # chat_module
 
-Chat package.
+A new Flutter package project.
 
 ## Getting Started
 

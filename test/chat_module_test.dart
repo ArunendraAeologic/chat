@@ -1,6 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:chat_module/chat_module.dart';
 
 void main() {
   test('adds one to input values', () {
