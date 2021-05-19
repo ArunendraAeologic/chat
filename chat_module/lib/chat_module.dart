@@ -15,7 +15,8 @@ class _ChatHomePageState extends State<ChatHomePage> {
     return MaterialApp(
       home: Container(
         child: Center(
-          child: Text("Chat Home Page working"),
+          child: Text("Chat Home Page working- update",
+          ),
         ),
       ),
     );
