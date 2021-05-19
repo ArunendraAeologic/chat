@@ -12,9 +12,11 @@ class ChatHomePage extends StatefulWidget {
 class _ChatHomePageState extends State<ChatHomePage> {
   @override
   Widget build(BuildContext context) {
-    return Container(
-      child: Center(
-        child: Text("Chat Home Page"),
+    return MaterialApp(
+      home: Container(
+        child: Center(
+          child: Text("Chat Home Page working"),
+        ),
       ),
     );
   }
